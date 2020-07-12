@@ -1,0 +1,21 @@
+﻿  snail_class.cpp
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(69): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(106): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\visualobject_struct.h(111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(152): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(160): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(168): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(169): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(180): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\john-\desktop\c++\snail_game (updated)\snail_game\snail_class.cpp(195): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  snail_game.vcxproj -> C:\Users\john-\Desktop\C++\snail_game (updated)\Debug\snail_game.exe
